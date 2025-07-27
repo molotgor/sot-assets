@@ -23,5 +23,8 @@
       "flags": {}
     }
   ],
-  "description": ""
+  "description": "",
+  "url": "https://github.com/molotgor/sot-assets",
+  "manifest": "https://raw.githubusercontent.com/molotgor/sot-assets/master/module.json",
+  "download": "https://github.com/molotgor/sot-assets/archive/refs/heads/master.zip"
 }
